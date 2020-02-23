@@ -1,5 +1,7 @@
 # inheriti.com
-Digital Inheritance done right...
+
+Digital Inheritance Secured.
+Providing the management, protection, and distribution of digital assets to designated shareholders…
 
 ## Inheriti Documentation
 
