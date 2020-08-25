@@ -2,3 +2,14 @@
 
 # Inheriti Release Notes
 
+## Community Edition
+
+Version 1.1.1.0
+
+Initial Community Edition Release
+
+Features:
+
+ * 100 % Decentralised
+ * Comet wallet integration
+ * SafeKey Integration
