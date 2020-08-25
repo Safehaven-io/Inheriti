@@ -10,6 +10,6 @@ Initial Community Edition Release
 
 Features:
 
- * 100 % Decentralised
+ * 100% Decentralised
  * Comet wallet integration
  * SafeKey Integration
