@@ -1,4 +1,4 @@
-# inheriti.com
+# Inheriti
 
 [![N|Solid](https://github.com/Safehaven-io/inheriti.com/blob/master/Inheriti%20logo/02.%20White%20logo/White_small.svg)](https://inheriti.com) 
 
