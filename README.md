@@ -14,6 +14,7 @@ https://docs.safetech.io
 
 ## Inheriti Smart Contract Audit Certificate
 
+https://github.com/Safehaven-io/Inheriti/blob/master/Security%20Audit%20Certificate%20Inheriti.pdf
 
 
 
