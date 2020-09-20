@@ -1,4 +1,4 @@
-[![N|Solid](https://docs.inheriti.com/img/logo.png)](https://inheriti.com/)
+[![N|Solid](https://docs.inheriti.com/img/logo_small.png)](https://inheriti.com/)
 
 # Inheriti Release Notes
 
