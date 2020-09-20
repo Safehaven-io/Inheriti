@@ -5,7 +5,7 @@ Providing the management, protection, and distribution of digital assets to desi
 
 ## Inheriti Documentation
 
-https://docs.safehaven.io
+https://docs.inheriti.com
 
 ## SafeKey Documentation
 
