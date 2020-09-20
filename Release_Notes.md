@@ -12,7 +12,7 @@ Features:
 
  * 100% Decentralised by using a 3-Layer Segmentation topology
     - Blockchain (containing the validators and DMS shares)
-    - Cold Storage (heirs shares + PK for decrypting the Blockchain shares in conjunction with the Cloud stored passphrase)
+    - Cold Storage (Beneficiaries shares + PK for decrypting the Blockchain shares in conjunction with the Cloud stored passphrase)
     - Cloud (Passphrase for private key decryption)
  * Comet wallet integration
  * SafeKey Integration
@@ -29,5 +29,5 @@ Features:
 SHA Utility & Payement Methods
 
  * SafeTech MPP node server
-    - Cost Protection plan Creation : 10.000 SHA
-    - Cost Store Add : 1.000 SHA
+    - Cost of protection plan creation : 10.000 (10,000) SHA
+    - Cost Store Add : 1.000 (1,000) SHA
