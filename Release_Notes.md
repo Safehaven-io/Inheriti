@@ -29,5 +29,5 @@ Features:
 SHA Utility & Payment Methods
 
  * SafeTech MPP node server
-    - Cost of protection plan creation : 10.000 SHA
-    - Cost per added store [additions to basic plan] : 1.000 SHA (Backup Shares, Backup Validators Shares, ...)
+    - Cost of protection plan creation : 10.000 (10,000) SHA 
+    - Cost per added store [additions to basic plan] : 1.000 (1,000) SHA (Backup Shares, Backup Validators Shares, ...)
