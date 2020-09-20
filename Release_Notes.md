@@ -1,10 +1,10 @@
-[![Automated Release Notes by gren](https://img.shields.io/badge/Inheriti-Version%20V1.1.1.0-blue)](https://github-tools.github.io/github-release-notes/)
+
 
 # Inheriti Release Notes
 
 ## Community Edition
 
-Version 1.1.1.0
+[![Automated Release Notes by gren](https://img.shields.io/badge/Inheriti-Version%20V1.1.1.0-blue)](https://github-tools.github.io/github-release-notes/)
 
 Initial Community Edition Release
 
