@@ -28,6 +28,6 @@ Features:
 
 SHA Utility & Payement Methods
 
- * Safetech MPP node server
+ * SafeTech MPP node server
     - Cost Protection plan Creation : 10.000 SHA
     - Cost Store Add : 1.000 SHA
