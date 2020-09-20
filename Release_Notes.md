@@ -10,8 +10,7 @@ Initial Community Edition Release
 
 Features:
 
- * 100% Decentralised 
- * 3 Layer Segmentation 
+ * 100% Decentralised by using a 3 Layer Segmentation topology
     - Cloud (Passphrase for private key decryption)
     - Blockchain (containing the validators and DMS shares)
     - Cold Storage (heirs shares + PK for decrypting the Blockchain shares in conjunction with the Cloud stored passphrase)
