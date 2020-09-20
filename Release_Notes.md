@@ -23,7 +23,7 @@ Features:
  * Login
  * Mail
 
-SHA Utility & Paiment Methods
+SHA Utility & Paiement Methods
 
  * Safetech MPP node server
     - Cost Protection plan Creation : 10.000 SHA
