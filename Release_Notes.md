@@ -13,3 +13,13 @@ Features:
  * 100% Decentralised
  * Comet wallet integration
  * SafeKey Integration
+
+ Protection plans:
+
+ * TFC > The Family Cirlce
+
+ Death Man switches (DMS):
+
+ * Login
+ * Mail
+
