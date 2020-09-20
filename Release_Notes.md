@@ -4,7 +4,7 @@
 
 ## Community Edition
 
-[![Automated Release Notes by gren](https://img.shields.io/badge/Inheriti%20CE-V1.1.1.0-blue)](https://github-tools.github.io/github-release-notes/)[![Automated Release Notes by gren](https://img.shields.io/badge/Stable-Version-green)](https://github-tools.github.io/github-release-notes/)
+[![Automated Release Notes by gren](https://img.shields.io/badge/Inheriti%20CE-V1.1.1.0-blue)](https://github.com/Safehaven-io/Inheriti/blob/master/Release_Notes.md)[![Automated Release Notes by gren](https://img.shields.io/badge/Stable-Version-green)](https://github.com/Safehaven-io/Inheriti/blob/master/Release_Notes.md)
 
 Initial Community Edition Release
 
