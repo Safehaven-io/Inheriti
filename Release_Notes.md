@@ -29,5 +29,5 @@ Features:
 SHA Utility & Payement Methods
 
  * SafeTech MPP node server
-    - Cost of protection plan creation : 10.000 (10,000) SHA
-    - Cost Store Add : 1.000 (1,000) SHA
+    - Cost of protection plan creation : 10.000 SHA
+    - Cost Store Add : 1.000 SHA
