@@ -15,7 +15,7 @@ Features:
     - Cold Storage (Beneficiaries shares + PK for decrypting the Blockchain shares in conjunction with the Cloud stored passphrase)
     - Cloud (Passphrase for private key decryption)
  * Comet wallet integration
- * SafeKey Integration
+ * SafeKey Intergation
 
  Protection plans:
 
