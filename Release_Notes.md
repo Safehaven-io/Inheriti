@@ -26,7 +26,7 @@ Features:
  * Login
  * Mail
 
-SHA Utility & Payement Methods
+SHA Utility & Payment Methods
 
  * SafeTech MPP node server
     - Cost of protection plan creation : 10.000 SHA
