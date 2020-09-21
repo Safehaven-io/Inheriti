@@ -14,7 +14,7 @@ Features:
     - Blockchain (containing the validators and DMS shares)
     - Cold Storage (Beneficiary Shares + PK for decrypting the blockchain shares in conjunction with the cloud stored passphrase)
     - Cloud (Passphrase for private key decryption)
- * Comet Wallet integration
+ * Comet wallet integration
  * SafeKey integration
 
  Protection Plans:
@@ -29,5 +29,5 @@ Features:
 SHA Utility & Payment Methods
 
  * SafeTech MPP Node Server
-    - Cost of protection plan creation : 10,000.00 SHA 
-    - Cost per added store [additions to basic plan] : 1,000.00 SHA (Backup Shares, Backup Validator Shares,...)
+    - Cost of protection plan creation : 10,000.0 SHA 
+    - Cost per added store [additions to basic plan] : 1,000.0 SHA (Backup Shares, Backup Validator Shares,...)
