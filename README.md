@@ -1,3 +1,5 @@
+[![N|Solid](https://docs.inheriti.com/img/Gradient_large.png)](https://inheriti.com/)
+
 # Inheriti
 
 Digital Inheritance Secured.
