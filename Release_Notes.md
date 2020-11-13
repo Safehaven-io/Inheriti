@@ -12,7 +12,7 @@ Correct Windows issues, improve UX ((SafeKey JavaScript Libraires))
 * Refresh session token on each successful read/write command, without need for relogging and touch (to correct in JavaScript - remove PIN cache and relogging each 45 seconds);
 
 
-[![Automated Release Notes by gren](https://img.shields.io/badge/Inheriti%20CE-V1.1.1.0-blue)](https://github.com/Safehaven-io/Inheriti/blob/master/Release_Notes.md)[![Automated Release Notes by gren]
+[![Automated Release Notes by gren](https://img.shields.io/badge/Inheriti%20CE-V1.1.1.0-blue)](https://github.com/Safehaven-io/Inheriti/blob/master/Release_Notes.md)
 
 Initial Community Edition Release
 
