@@ -4,7 +4,7 @@
 
 ## Community Edition
 
-[![Automated Release Notes by gren](https://img.shields.io/badge/Inheriti%20CE-V1.1.1.0-blue)](https://github.com/Safehaven-io/Inheriti/blob/master/Release_Notes.md)[![Automated Release Notes by gren](https://img.shields.io/badge/Stable-Version-green)](https://github.com/Safehaven-io/Inheriti/blob/master/Release_Notes.md)
+[![Automated Release Notes by gren](https://img.shields.io/badge/V1.1.2.0-Inheriti%20CE-blue)](https://github.com/Safehaven-io/Inheriti/blob/master/Release_Notes.md)[![Automated Release Notes by gren](https://img.shields.io/badge/Stable-Version-green)](https://github.com/Safehaven-io/Inheriti/blob/master/Release_Notes.md)
 
 
 Correct Windows issues, improve UX ((SafeKey JavaScript Libraires))
