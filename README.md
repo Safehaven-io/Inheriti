@@ -20,7 +20,7 @@ https://github.com/Safehaven-io/Inheriti/blob/master/Security%20Audit%20Certific
 
 ## Inheriti Data Intitgriti Audit Certificate
 
-https://github.com/Safehaven-io/Inheriti/blob/master/Security%20Audit%20Certificate%20Inheriti.pdf
+https://github.com/Safehaven-io/Inheriti/blob/master/Inheriti%20Data%20Intigrity%20Certificate.pdf
 
 
 
